@@ -88,3 +88,4 @@ After crawling:
 ## 🧑‍💻 Author
 
 - Built by [Adel Alaa](https://github.com/adel-alaa-dp)
+- Linkedin: https://www.linkedin.com/in/adel-alaa/
