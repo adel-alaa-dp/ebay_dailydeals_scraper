@@ -89,3 +89,5 @@ After crawling:
 
 - Built by [Adel Alaa](https://github.com/adel-alaa-dp)
 - Linkedin: https://www.linkedin.com/in/adel-alaa/
+- Fiverr: https://www.fiverr.com/s/o8j7g7g
+- UpWork: https://www.upwork.com/freelancers/~01c667db97cbb336b5
