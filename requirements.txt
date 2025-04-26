@@ -1,0 +1,7 @@
+scrapy>=2.10.0
+lxml>=5.2.0
+gspread>=6.0.0
+oauth2client>=4.1.3
+
+# Optional but recommended
+python-dotenv>=1.0.1
